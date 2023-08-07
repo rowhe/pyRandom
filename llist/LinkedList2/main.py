@@ -1,8 +1,7 @@
 from node import Node
-from typing import Any, Optional
+from typing import Optional
 
 
-# собираем в кучу наш LinkedList
 class LinkedList:
     def __init__(self, data):
         self.list_nodes = []
