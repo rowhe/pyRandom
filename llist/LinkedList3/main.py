@@ -1,4 +1,12 @@
 # from node import Node
+
+
+"""
+LinkedList articles: https://realpython.com/linked-lists-python/
+ https://www.codingninjas.com/blog/2021/09/14/linked-lists-in-python/
+
+
+"""
 class Node:
     def __init__(self, data):
         self.data = data
